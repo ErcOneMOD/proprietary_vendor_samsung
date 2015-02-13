@@ -201,7 +201,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/klte-common/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
     vendor/samsung/klte-common/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/samsung/klte-common/proprietary/lib/drm/libdrmwvmplugin.so:system/lib/drm/libdrmwvmplugin.so \
-    vendor/samsung/klte-common/proprietary/lib/drm/libfwdlockengine.so:system/lib/drm/libfwdlockengine.so \
     vendor/samsung/klte-common/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     vendor/samsung/klte-common/proprietary/lib/libwvm.so:system/lib/libwvm.so \
     vendor/samsung/klte-common/proprietary/lib/libhdcp2.so:system/lib/libhdcp2.so \
